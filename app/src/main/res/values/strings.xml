@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArchivosTXTsaulmarquezlara</string>
+    <string name="Nombre">Ingresa tu nombre</string>
+    <string name="Agrega">Escribir</string>
+    <string name="Contenido">Informacion del archivo</string>
+    <string name="Cargar">Carga informacion</string>
+</resources>
